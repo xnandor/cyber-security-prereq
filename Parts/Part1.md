@@ -64,6 +64,7 @@
     - Big Data
         - Map Reduce / Hadoop
     - Hacking
+    - Reverse Engineering
     - Computational Science
     - Interfaces
     - Robotics
